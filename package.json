@@ -20,9 +20,11 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
+    "env": "^0.0.2",
     "express": "^4.18.2",
     "mysql2": "^2.1.0",
-    "sequelize": "^5.22.5"
+    "node": "^19.8.1",
+    "sequelize": "^6.29.3"
   },
   "description": ""
 }
